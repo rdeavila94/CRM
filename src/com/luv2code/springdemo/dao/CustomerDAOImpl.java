@@ -32,7 +32,6 @@ public class CustomerDAOImpl implements CustomerDAO {
 		//return the list of customers retrieved
 		
 		
-		
 		return customers;
 	}
 
